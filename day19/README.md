@@ -1,0 +1,1 @@
+a c program to manage student attendance and marks. it stores names, attendance records, and subject marks for multiple students. the program shows attendance and marks matrices, reports highest and lowest attendance, total marks, and grades based on averages.
